@@ -29,6 +29,7 @@ Goals:
 2. Public auditability
 3. Build-options controlled to be those best suited for the project,
    configured in a way where our open source time can best help users.
+   + This includes build consistency with our binary releases
 
 Non-goals:
 
